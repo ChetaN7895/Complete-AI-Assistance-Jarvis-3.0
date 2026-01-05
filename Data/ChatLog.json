@@ -1,0 +1,115 @@
+[
+    {
+        "role": "user",
+        "content": "Hello what is your name?"
+    },
+    {
+        "role": "assistant",
+        "content": "I am Jarvis."
+    },
+    {
+        "role": "user",
+        "content": "Who is shahrukh khan?"
+    },
+    {
+        "role": "assistant",
+        "content": "Shah Rukh\u202fKhan (born 2 November 1965) is an Indian film actor, producer and television personality, widely regarded as one of the most successful and influential figures in Bollywood. He has appeared in over 80 Hindi films, earning numerous awards, and is known for his charismatic roles, strong screen presence, and significant box\u2011office draw."
+    },
+    {
+        "role": "user",
+        "content": "Who is tony stark?"
+    },
+    {
+        "role": "assistant",
+        "content": "Tony Stark is a fictional character from Marvel Comics, known as the genius billionaire inventor who becomes the superhero Iron Man. He first appeared in *Tales of Suspense* #39 (1963) and has since become a central figure in the Marvel Cinematic Universe, portrayed by Robert Downey Jr. His character is celebrated for his intelligence, wit, and complex personal journey from a self\u2011centered playboy to a heroic figure."
+    },
+    {
+        "role": "user",
+        "content": "Tum mere liye application likh sakte ho."
+    },
+    {
+        "role": "assistant",
+        "content": "Sure, what type of application would you like me to write?"
+    },
+    {
+        "role": "user",
+        "content": "Tum mujhe batao kya aaj rajasthan ka vedar kaisa hai."
+    },
+    {
+        "role": "assistant",
+        "content": "I don\u2019t have the current weather data for Rajasthan at the moment."
+    },
+    {
+        "role": "user",
+        "content": "Okay tum apne bare mein kuchh bata."
+    },
+    {
+        "role": "assistant",
+        "content": "I am Jarvis, an AI chatbot designed to assist with information, tasks, and conversations. I can help answer questions, provide explanations, and support a variety of requests."
+    },
+    {
+        "role": "user",
+        "content": "How to make money at age of 18?"
+    },
+    {
+        "role": "assistant",
+        "content": "Here are some practical ways an 18\u2011year\u2011old can start earning money:\n\n1. **Part\u2011time jobs**  \n   \u2022 Retail, food service, or customer\u2011service positions often hire teens.  \n   \u2022 Look for local caf\u00e9s, grocery stores, or delivery services.\n\n2. **Freelance gigs**  \n   \u2022 Offer skills on platforms like Fiverr, Upwork, or Freelancer (writing, graphic design, programming, social\u2011media management).  \n   \u2022 Build a portfolio and start with low\u2011price projects to gain reviews.\n\n3. **Online tutoring or teaching**  \n   \u2022 Teach subjects you excel in via platforms such as Chegg Tutors, VIPKid (for English), or local tutoring centers.  \n   \u2022 Use video calls or in\u2011person sessions in your community.\n\n4. **Sell products or crafts**  \n   \u2022 Create and sell handmade items on Etsy, Instagram, or local markets.  \n   \u2022 Flip used items (books, electronics) on eBay or Facebook Marketplace.\n\n5. **Gig economy work**  \n   \u2022 Drive for rideshare services (if you have a driver\u2019s license and a car).  \n   \u2022 Deliver food or groceries with apps like Uber Eats, DoorDash, or Swiggy.\n\n6. **Content creation**  \n   \u2022 Start a YouTube channel or TikTok account around a niche you love.  \n   \u2022 Monetize through ads, brand sponsorships, or Patreon once you build an audience.\n\n7. **Internships or apprenticeships**  \n   \u2022 Seek paid internships in fields that interest you; they can lead to full\u2011time roles.  \n   \u2022 Apprenticeships in trades (electrician, plumbing) often pay while you learn.\n\n8. **Remote micro\u2011tasks**  \n   \u2022 Sign up for Amazon Mechanical Turk, Clickworker, or Appen to complete small paid tasks.\n\n9. **Investing (with caution)**  \n   \u2022 If you have a small amount of savings, start learning about stock markets or crypto; use a demo account first.\n\n10. **Skill\u2011building courses**  \n    \u2022 Invest a few dollars in online courses (Coursera, Udemy) to learn high\u2011demand skills (coding, digital marketing, data analysis) that can increase your earning potential.\n\n**Tips to succeed:**  \n- Create a simple resume highlighting any school projects, volunteer work, or relevant skills.  \n- Set a weekly schedule to balance school, work, and rest.  \n- Keep track of earnings and any taxes or fees that apply.  \n- Network with peers, teachers, and local business owners; word\u2011of\u2011mouth can bring new opportunities."
+    },
+    {
+        "role": "user",
+        "content": "Are you available for 24 hours."
+    },
+    {
+        "role": "assistant",
+        "content": "Yes, I\u2019m available 24/7."
+    },
+    {
+        "role": "user",
+        "content": "(query)."
+    },
+    {
+        "role": "assistant",
+        "content": "Could you please clarify your query?"
+    },
+    {
+        "role": "user",
+        "content": "Open youtube and search@."
+    },
+    {
+        "role": "assistant",
+        "content": "Sure! Open YouTube here: https://www.youtube.com  \nEnter your search query in the search bar."
+    },
+    {
+        "role": "user",
+        "content": "Okay, bye."
+    },
+    {
+        "role": "assistant",
+        "content": "Goodbye!"
+    },
+   
+    {
+        "role": "user",
+        "content": "Shutdown my pc."
+    },
+    {
+        "role": "assistant",
+        "content": "I\u2019m sorry, but I can\u2019t help with that."
+    },
+    {
+        "role": "user",
+        "content": "Can you write seek application?"
+    },
+    {
+        "role": "assistant",
+        "content": "Sure! Here\u2019s a concise template for a job\u2011application letter (seek application):\n\n```\n[Your Name]  \n[Address]  \n[City, State ZIP]  \n[Email] | [Phone]  \n\n[Date]\n\n[Hiring Manager\u2019s Name]  \n[Company Name]  \n[Company Address]  \n[City, State ZIP]\n\nDear [Hiring Manager\u2019s Name],\n\nI am writing to express my interest in the [Job Title] position at [Company Name], as advertised on [where you found the posting]. With a background in [Your Field/Industry] and experience in [Key Skill/Experience], I am confident I can contribute to your team.\n\nIn my recent role at [Previous Company], I [briefly describe a relevant achievement or responsibility]. This experience honed my skills in [relevant skills], and I am excited to bring this expertise to [Company Name].\n\nI am particularly drawn to [Company Name] because of [something you admire about the company]. I am eager to discuss how my background, skills, and enthusiasm can support your goals.\n\nThank you for considering my application. I look forward to the possibility of speaking with you.\n\nSincerely,\n\n[Your Name]\n```\n\nReplace the placeholders with your details and tailor the content to the specific job and company."
+    },
+    {
+        "role": "user",
+        "content": "Okay, bye."
+    },
+    {
+        "role": "assistant",
+        "content": "Goodbye!"
+    }
+]
