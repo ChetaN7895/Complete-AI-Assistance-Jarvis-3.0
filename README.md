@@ -4,6 +4,8 @@
 
 This repository contains an AI-based project that utilizes external APIs and a machine learning model for intelligent automation. Follow the instructions below to install dependencies, set up API keys, and run the project locally.
 
+Demo Link : https://www.youtube.com/shorts/lQ-_UtEjZqk
+
 ---
 
 ## 📌 Features
@@ -71,8 +73,7 @@ Some Demo Images :
 <img width="1903" height="1073" alt="Image" src="https://github.com/user-attachments/assets/62ef991c-c019-46da-a9e1-afba85a85362" />
 <img width="1913" height="1072" alt="Image" src="https://github.com/user-attachments/assets/c64c3dbc-87f8-4dac-8512-6485dd17ddfd" />
 
-
-Open a Pull Request
+Complete Video Demo : https://youtu.be/SnRDI4COnXk?si=uJPelbwT3GdypiEz
 
 📜 License
 Distributed under the MIT License. See LICENSE for more information.
