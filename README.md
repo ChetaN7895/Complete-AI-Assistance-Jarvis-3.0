@@ -4,7 +4,7 @@
 
 This repository contains an AI-based project that utilizes external APIs and a machine learning model for intelligent automation. Follow the instructions below to install dependencies, set up API keys, and run the project locally.
 
-Demo Link : https://www.youtube.com/shorts/lQ-_UtEjZqk
+Demo Link : https://www.youtube.com/@TechOpTrack
 
 ---
 
